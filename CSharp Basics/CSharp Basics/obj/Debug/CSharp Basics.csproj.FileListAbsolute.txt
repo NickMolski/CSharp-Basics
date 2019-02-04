@@ -1,0 +1,7 @@
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.exe.config
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.exe
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\bin\Debug\CSharp Basics.pdb
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.csprojAssemblyReference.cache
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.csproj.CoreCompileInputs.cache
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.exe
+C:\Users\Neeqo\Desktop\Visual Studio\CSharp Basics\CSharp Basics\obj\Debug\CSharp Basics.pdb
